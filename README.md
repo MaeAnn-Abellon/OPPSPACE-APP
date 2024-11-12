@@ -19,13 +19,12 @@ OppSpace Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
-
+<img src="assets/images/banner.png">
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/banner.png">
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/banner.png">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/images/banner.png">  
